@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 import modelo.Socios;
 import modelo.SociosDAO;
 
-//@WebServlet(name = "SociosController", urlPatterns = {"/SociosController"})
+@WebServlet(name = "SociosController", urlPatterns = {"/SociosController"})
 
 public class SociosController extends HttpServlet 
 {
