@@ -44,8 +44,8 @@ CREATE TABLE `socios` (
 --
 
 INSERT INTO `socios` (`idSocio`, `nombre`, `apellido`, `direccion`, `localidad`, `fnac`, `email`, `telefono`, `activo`) VALUES
-(7, 'Nicolas', 'Fernandez', 'Cordoba', 'Quilmes', '1981-12-11', 'nmfernandez12@gmail.com', '1600', 1),
-(9, 'Nicolas', 'Alvarez', 'Cordoba 1543', 'Quilmes', '1981-09-14', 'nmfernandez1aaa2@gmail.com', '22', 1);
+(7, 'Pamela', 'Peralta', 'Cordoba', 'La Plata', '1996-01-16', 'pameperalta96@gmail.com', '5412390', 1),
+(9, 'Bautista', 'Perez', 'Alcorta', 'CABA', '1990-04-17', 'bautiperez54@gmail.com', '4355061', 1);
 
 --
 -- Índices para tablas volcadas
