@@ -25,7 +25,7 @@
 
   </head>
   <body>
-    <h1>Listado de Socios del Gym</h1>
+    <h1>Lista de Socios del Gym</h1>
 
 
     <div class="container">
